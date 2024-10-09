@@ -1,0 +1,3 @@
+[submodule "modelviewer-mf6"]
+	path = modelviewer-mf6
+	url = git@github.com:scharlton2/modelviewer-mf6.git
